@@ -19,8 +19,7 @@ const Index = () => (
             Kirmina INC
           </h1>
           <p className="text-xl lg:text-2xl mt-6 font-light">
-            Free landing page template to promote your business startup and generate leads for the
-            offered services
+            testing 
           </p>
           <p className="mt-8 md:mt-12">
             <Button size="lg">Get Started</Button>
